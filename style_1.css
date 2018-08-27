@@ -1,0 +1,25 @@
+body {
+    font-size: 18px;
+    font-family: PingFang, Geneva, Verdana, sans-serif；
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-weight: extrabold;
+    font-size: 24px;
+}
+
+span {
+    margin-right: 40px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 0px;
+}

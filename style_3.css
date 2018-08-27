@@ -1,0 +1,58 @@
+body {
+    font-family: PingFang, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.first {
+    float: top;
+    height: 50px;
+    width: 800px;
+    background-color: rgb(177, 176, 176);
+    margin-bottom: 10px;
+}
+
+div {
+    float: top;
+    height: 60px;
+    margin: 5px;
+    padding: 10px;
+    border: 0px;
+    width: 1500px;
+}
+
+.first {
+    padding: 0px;
+}
+
+h1 {
+    font-size: 30px;
+    margin-left: 20px;
+    padding-top: 5px;
+    color: aliceblue;
+}
+
+h2 {
+    clear: both;
+    float: left;
+    height: 40px;
+    width: 150px;
+    margin: 0px;
+    background-color: gainsboro;
+    padding: 20px;
+    font-size: 20px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dt,
+dd {
+    display: inline;
+    padding: 0px;
+}
+
+dd::after {
+    content: "\0A";
+    white-space: pre;
+}

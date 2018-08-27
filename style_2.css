@@ -1,0 +1,35 @@
+body {
+    font-size: 18px;
+    font-family: PingFang, Geneva, Verdana, sans-serif；
+}
+
+h1 {
+    font-size: 36px;
+    color: aliceblue;
+    padding: 50px;
+}
+
+h2 {
+    font-weight: extrabold;
+    font-size: 24px;
+}
+
+span {
+    margin-right: 40px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 0px;
+}
+
+.first {
+    float: left;
+    height: 730px;
+    width: 180px;
+    background-color: rgb(9, 148, 228);
+    margin: 10px;
+}
